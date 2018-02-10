@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="fuwa-fuwa-time" sample-rate="44100" end-is-free="0" id-counter="7330" name-counter="1" event-counter="154450" vca-counter="1">
+<Session version="3002" name="fuwa-fuwa-time" sample-rate="44100" end-is-free="0" id-counter="13710" name-counter="1" event-counter="264065" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -82,6 +82,24 @@
     <Source name="Yui-3.mid" type="midi" flags="Writable,CanRename,Removable,RemovableIfEmpty,Empty" id="3847" origin=""/>
     <Source name="Yui-4.mid" type="midi" flags="Writable,CanRename" id="3856" origin=""/>
     <Source name="Mugi Right-1.mid" type="midi" flags="Writable,CanRename" id="4571" origin=""/>
+    <Source name="Mugi-5.mid" type="midi" flags="Writable,CanRename" id="8477" origin=""/>
+    <Source name="Mugi-6.mid" type="midi" flags="Writable,CanRename" id="10813" origin=""/>
+    <Source name="Mugi-7.mid" type="midi" flags="Writable,CanRename" id="11283" origin=""/>
+    <Source name="Ritsu-5.mid" type="midi" flags="Writable,CanRename" id="12989" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu-6.mid" type="midi" flags="Writable,CanRename" id="13000" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu-7.mid" type="midi" flags="Writable,CanRename" id="13014" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu-8.mid" type="midi" flags="Writable,CanRename" id="13028" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu-9.mid" type="midi" flags="Writable,CanRename" id="13042" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu-10.mid" type="midi" flags="Writable,CanRename" id="13056" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu-11.mid" type="midi" flags="Writable,CanRename" id="13070" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu-12.mid" type="midi" flags="Writable,CanRename" id="13091" captured-for="Ritsu" origin=""/>
+    <Source name="Ritsu Snare-1.mid" type="midi" flags="Writable,CanRename" id="13286" captured-for="Ritsu Snare" origin=""/>
+    <Source name="Ritsu Snare-2.mid" type="midi" flags="Writable,CanRename" id="13402" captured-for="Ritsu Snare" origin=""/>
+    <Source name="Ritsu Snare-3.mid" type="midi" flags="Writable,CanRename" id="13413" captured-for="Ritsu Snare" origin=""/>
+    <Source name="Ritsu Snare-4.mid" type="midi" flags="Writable,CanRename" id="13427" captured-for="Ritsu Snare" origin=""/>
+    <Source name="Ritsu Snare-5.mid" type="midi" flags="Writable,CanRename" id="13667" captured-for="Ritsu Snare" origin=""/>
+    <Source name="Ritsu Snare-6.mid" type="midi" flags="Writable,CanRename" id="13681" captured-for="Ritsu Snare" origin=""/>
+    <Source name="Ritsu Snare-7.mid" type="midi" flags="Writable,CanRename" id="13695" captured-for="Ritsu Snare" origin=""/>
   </Sources>
   <Regions>
     <Region name="Mugi-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="280578" position="88624" beat="4.0192290249433107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="12.724625850340136" id="242" type="midi" first-edit="nothing" source-0="240" master-source-0="240"/>
@@ -108,6 +126,47 @@
     <Region name="Mugi Right-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="301572" length="249470" position="981784" beat="51.946243386243388" sync-position="301572" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="15.956190476190478" length-beats="13.199470899470889" id="6764" type="midi" first-edit="nothing" source-0="4571" master-source-0="4571"/>
     <Region name="Mugi Right-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="310727" position="680212" beat="35.99005291005291" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="16.440582010582013" id="6777" type="midi" first-edit="nothing" source-0="4571" master-source-0="4571"/>
     <Region name="Mugi Right-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="310727" length="240315" position="990939" beat="52.430634920634922" sync-position="310727" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="16.440582010582013" length-beats="12.715079365079355" id="6780" type="midi" first-edit="nothing" source-0="4571" master-source-0="4571"/>
+    <Region name="Mugi-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="147617" position="1435234" beat="75.938306878306889" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="7.8104232804232794" id="8626" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+    <Region name="Mugi-5.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="147617" position="1436006" beat="75.979153439153436" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="7.8104232804232794" id="8704" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+    <Region name="Mugi-5.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="147617" position="1435329" beat="75.943333333333328" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="7.8104232804232794" id="8834" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+    <Region name="Mugi-5.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="289137" position="1609177" beat="85.141640211640208" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="15.29825396825396" id="10513" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+    <Region name="Mugi-5.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="289137" position="1284900" beat="67.984126984126988" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="15.29825396825396" id="10566" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+    <Region name="Mugi-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="10869" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="0.57507936507936108" id="11165" type="midi" first-edit="nothing" source-0="10813" master-source-0="10813"/>
+    <Region name="Mugi-5.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="140101" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="7.4127513227513333" id="11184" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+    <Region name="Ritsu-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="200704" position="644361" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="10.619259259259259" id="12993" type="midi" first-edit="nothing" source-0="12989" master-source-0="12989"/>
+    <Region name="Ritsu-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="200704" position="644361" beat="34.093174603174603" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="10.619259259259259" id="12996" type="midi" first-edit="nothing" source-0="12989" master-source-0="12989"/>
+    <Region name="Ritsu-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="961536" position="622017" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="50.874920634920635" id="13007" type="midi" first-edit="nothing" source-0="13000" master-source-0="13000"/>
+    <Region name="Ritsu-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="961536" position="622017" beat="32.910952380952381" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="50.874920634920642" id="13010" type="midi" first-edit="nothing" source-0="13000" master-source-0="13000"/>
+    <Region name="Ritsu-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="712704" position="599429" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="37.709206349206347" id="13021" type="midi" first-edit="nothing" source-0="13014" master-source-0="13014"/>
+    <Region name="Ritsu-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="712704" position="599429" beat="31.715820105820107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="37.709206349206347" id="13024" type="midi" first-edit="nothing" source-0="13014" master-source-0="13014"/>
+    <Region name="Ritsu-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="306176" position="615494" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="16.199788359788361" id="13035" type="midi" first-edit="nothing" source-0="13028" master-source-0="13028"/>
+    <Region name="Ritsu-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="306176" position="615494" beat="32.565820105820102" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="16.199788359788364" id="13038" type="midi" first-edit="nothing" source-0="13028" master-source-0="13028"/>
+    <Region name="Ritsu-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="645120" position="633134" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="34.133333333333333" id="13049" type="midi" first-edit="nothing" source-0="13042" master-source-0="13042"/>
+    <Region name="Ritsu-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="645120" position="633134" beat="33.499153439153439" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="34.133333333333333" id="13052" type="midi" first-edit="nothing" source-0="13042" master-source-0="13042"/>
+    <Region name="Ritsu-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="57344" position="645443" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="3.0340740740740739" id="13063" type="midi" first-edit="nothing" source-0="13056" master-source-0="13056"/>
+    <Region name="Ritsu-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="57344" position="645443" beat="34.150423280423283" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="3.034074074074077" id="13066" type="midi" first-edit="nothing" source-0="13056" master-source-0="13056"/>
+    <Region name="Ritsu-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="761856" position="521376" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="40.309841269841272" id="13077" type="midi" first-edit="nothing" source-0="13070" master-source-0="13070"/>
+    <Region name="Ritsu-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="761856" position="521376" beat="27.586031746031747" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="40.309841269841272" id="13080" type="midi" first-edit="nothing" source-0="13070" master-source-0="13070"/>
+    <Region name="Ritsu-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="747520" position="571998" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="39.551322751322751" id="13095" type="midi" first-edit="nothing" source-0="13091" master-source-0="13091"/>
+    <Region name="Ritsu-4.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="32986" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="1.7452683295540368" id="13202" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+    <Region name="Ritsu-12.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="106422" position="4538" beat="0.2401058201058201" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="5.6307936507936525" id="13205" type="midi" first-edit="nothing" source-0="13091" master-source-0="13091"/>
+    <Region name="Ritsu-4.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="33847" beat="1.7908465608465609" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="3.9547808012093704" id="13208" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+    <Region name="Ritsu-12.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="107590" position="3954" beat="0.2092063492063492" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="5.6925925925925966" id="13222" type="midi" first-edit="nothing" source-0="13091" master-source-0="13091"/>
+    <Region name="Ritsu Snare-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1593344" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="84.303915343915335" id="13388" type="midi" first-edit="nothing" source-0="13286" master-source-0="13286"/>
+    <Region name="Ritsu Snare-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1593344" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="84.303915343915335" id="13391" type="midi" first-edit="nothing" source-0="13286" master-source-0="13286"/>
+    <Region name="Ritsu Snare-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="131072" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="6.9350264550264553" id="13406" type="midi" first-edit="nothing" source-0="13402" master-source-0="13402"/>
+    <Region name="Ritsu Snare-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="131072" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="6.9350264550264553" id="13409" type="midi" first-edit="nothing" source-0="13402" master-source-0="13402"/>
+    <Region name="Ritsu Snare-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="963584" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="50.983280423280426" id="13420" type="midi" first-edit="nothing" source-0="13413" master-source-0="13413"/>
+    <Region name="Ritsu Snare-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="75947" length="601040" position="78863" beat="4.1726455026455032" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4.0183597883597884" length-beats="31.801058201058197" id="13423" type="midi" first-edit="nothing" source-0="13413" master-source-0="13413"/>
+    <Region name="Ritsu Snare-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="286596" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="15.163809523809524" id="13431" type="midi" first-edit="nothing" source-0="13413" master-source-0="13413"/>
+    <Region name="Ritsu Snare-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="75947" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="4.0183597883597884" id="13439" type="midi" first-edit="nothing" source-0="13413" master-source-0="13413"/>
+    <Region name="Ritsu Snare-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="650240" position="629760" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="34.404232804232805" id="13660" type="midi" first-edit="nothing" source-0="13427" master-source-0="13427"/>
+    <Region name="Ritsu Snare-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="650240" position="629760" beat="33.320634920634916" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="34.404232804232805" id="13663" type="midi" first-edit="nothing" source-0="13427" master-source-0="13427"/>
+    <Region name="Ritsu Snare-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="258048" position="645111" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="13.653333333333334" id="13674" type="midi" first-edit="nothing" source-0="13667" master-source-0="13667"/>
+    <Region name="Ritsu Snare-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="258048" position="645111" beat="34.132857142857141" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="13.653333333333336" id="13677" type="midi" first-edit="nothing" source-0="13667" master-source-0="13667"/>
+    <Region name="Ritsu Snare-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="103424" position="637152" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="5.4721693121693118" id="13688" type="midi" first-edit="nothing" source-0="13681" master-source-0="13681"/>
+    <Region name="Ritsu Snare-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="103424" position="637152" beat="33.711746031746031" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="5.4721693121693136" id="13691" type="midi" first-edit="nothing" source-0="13681" master-source-0="13681"/>
+    <Region name="Ritsu Snare-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="675840" position="628056" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35.75873015873016" id="13702" type="midi" first-edit="nothing" source-0="13695" master-source-0="13695"/>
   </Regions>
   <Selection/>
   <Locations>
@@ -125,14 +184,16 @@
         <Port type="audio" name="Master/audio_in 1">
           <Connection other="Mugi Left/audio_out 1"/>
           <Connection other="Mugi Right/audio_out 1"/>
-          <Connection other="Ritsu/audio_out 1"/>
+          <Connection other="Ritsu Kick/audio_out 1"/>
+          <Connection other="Ritsu Snare/audio_out 1"/>
           <Connection other="Yui Left/audio_out 1"/>
           <Connection other="Yui Right/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
           <Connection other="Mugi Left/audio_out 2"/>
           <Connection other="Mugi Right/audio_out 2"/>
-          <Connection other="Ritsu/audio_out 2"/>
+          <Connection other="Ritsu Kick/audio_out 2"/>
+          <Connection other="Ritsu Snare/audio_out 2"/>
           <Connection other="Yui Left/audio_out 2"/>
           <Connection other="Yui Right/audio_out 2"/>
         </Port>
@@ -510,22 +571,22 @@
       </Processor>
       <Slavable/>
     </Route>
-    <Route id="3158" name="Ritsu" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="3158" name="Ritsu Kick" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="4" flags="MidiTrack,OrderSet" color="3454532351"/>
       <Controllable name="solo" id="3166" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="3172" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="3174" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="Ritsu" id="3186" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Ritsu/midi_in 1"/>
+      <IO name="Ritsu Kick" id="3186" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Ritsu Kick/midi_in 1"/>
       </IO>
-      <IO name="Ritsu" id="3187" direction="Output" default-type="midi" user-latency="0">
-        <Port type="audio" name="Ritsu/audio_out 1">
+      <IO name="Ritsu Kick" id="3187" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Ritsu Kick/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="Ritsu/audio_out 2">
+        <Port type="audio" name="Ritsu Kick/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
-        <Port type="midi" name="Ritsu/midi_out 1"/>
+        <Port type="midi" name="Ritsu Kick/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
       <Controllable name="mute" id="3168" flags="Toggle,RealTime" value="0"/>
@@ -599,7 +660,7 @@
         <Controllable name="gaincontrol" id="3162" flags="GainLike" value="1"/>
       </Processor>
       <Processor id="3190" name="meter-Ritsu" active="1" user-latency="0" type="meter"/>
-      <Processor id="3191" name="Ritsu" active="1" user-latency="0" own-input="1" own-output="0" output="Ritsu" type="main-outs" role="Main">
+      <Processor id="3191" name="Ritsu Kick" active="1" user-latency="0" own-input="1" own-output="0" output="Ritsu Kick" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
           <Controllable name="pan-azimuth" id="3177" flags="" value="0.5"/>
@@ -898,7 +959,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state4">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state7">
           <Port symbol="port_reverse" value="0"/>
           <Port symbol="port_predelay" value="0"/>
           <Port symbol="port_attack" value="100"/>
@@ -1160,7 +1221,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state5">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state8">
           <Port symbol="port_reverse" value="0"/>
           <Port symbol="port_predelay" value="0"/>
           <Port symbol="port_attack" value="100"/>
@@ -1217,6 +1278,120 @@
       </Processor>
       <Slavable/>
     </Route>
+    <Route id="13242" name="Ritsu Snare" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="8" flags="MidiTrack,OrderSet" color="3605361407"/>
+      <Controllable name="solo" id="13250" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="13256" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="13258" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Ritsu Snare" id="13270" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Ritsu Snare/midi_in 1">
+          <Connection other="system:midi_capture_1"/>
+        </Port>
+      </IO>
+      <IO name="Ritsu Snare" id="13271" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Ritsu Snare/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Ritsu Snare/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Ritsu Snare/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="13252" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="13254" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="13249" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="13255" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="13257" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="13251" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="13277" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="13279" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="13253" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="13281" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="13261" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="13265" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="13263" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="13267" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="13269" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="13260" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="13262" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="13264" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="13266" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="13268" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="13274" name="meter-Ritsu Snare" active="1" user-latency="0" type="meter"/>
+      <Processor id="13373" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="225" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="227" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="229" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="231" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state8">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="226" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="228" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="230" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="232" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="13272" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="13245" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="13246" flags="GainLike" value="0.58669775724411011"/>
+      </Processor>
+      <Processor id="13275" name="Ritsu Snare" active="1" user-latency="0" own-input="1" own-output="0" output="Ritsu Snare" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="13261" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="13265" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="13263" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="13267" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="13269" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="13260" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="13262" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="13264" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="13266" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="13268" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="13282" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="13280" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="13278" flags="Toggle,RealTime" value="1"/>
+      <Diskstream flags="Recordable" playlist="Ritsu Snare.1" name="Ritsu Snare" id="13283" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
   </Routes>
   <Playlists>
     <Playlist id="200" name="Mugi.1" type="midi" orig-track-id="158" shared-with-ids="" frozen="0" combine-ops="0">
@@ -1224,7 +1399,11 @@
       <Region name="Mugi-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="226003" beat="11.9578231292517" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2308" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
       <Region name="Mugi-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="377189" beat="19.957097505668933" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2339" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
       <Region name="Mugi-2.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="528303" beat="27.952562358276644" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2353" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi Right-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="626088" position="680212" beat="35.99005291005291" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="33.126349206349204" id="4573" type="midi" first-edit="nothing" source-0="4571" master-source-0="4571"/>
+      <Region name="Mugi Right-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="603904" position="680212" beat="35.99005291005291" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="31.952592592592595" id="4573" type="midi" first-edit="nothing" source-0="4571" master-source-0="4571"/>
+      <Region name="Mugi-5.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="302589" position="1284672" beat="67.972063492063498" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="16.009999999999991" id="10499" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+      <Region name="Mugi-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="299808" position="1587402" beat="83.989523809523817" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="15.862857142857138" id="10815" type="midi" first-edit="nothing" source-0="10813" master-source-0="10813"/>
+      <Region name="Mugi-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="301715" position="1889412" beat="99.968888888888884" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="15.963756613756615" id="8479" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+      <Region name="Mugi-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="247471" position="2191517" beat="115.95328042328042" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="13.093703703703724" id="11285" type="midi" first-edit="nothing" source-0="11283" master-source-0="11283"/>
     </Playlist>
     <Playlist id="3200" name="Ritsu.1" type="midi" orig-track-id="3158" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Ritsu-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="71742" beat="3.7958919123204837" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="3.9547808012093721" id="3353" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
@@ -1234,7 +1413,8 @@
       <Region name="Ritsu-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="374393" beat="19.80913076341648" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="3.9547808012093721" id="4207" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
       <Region name="Ritsu-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="450104" beat="23.815007558578994" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="3.9547808012093721" id="4210" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
       <Region name="Ritsu-4.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="525701" beat="27.814890400604693" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="3.9547808012093721" id="4213" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="601307" beat="31.815166288737718" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="3.9547808012093721" id="4216" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="601307" beat="31.815185185185186" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="3.9547808012093721" id="4216" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="107590" length="639930" position="679442" beat="35.949312169312165" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="5.6925925925925966" length-beats="33.858730158730161" id="13098" type="midi" first-edit="nothing" source-0="13091" master-source-0="13091"/>
     </Playlist>
     <Playlist id="3504" name="Yui.1" type="midi" orig-track-id="3462" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Yui-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="150844" position="74516" beat="3.94266439909297" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="7.9811451247165541" id="3858" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
@@ -1242,6 +1422,9 @@
       <Region name="Yui-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="150844" position="376915" beat="19.9425888133031" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="7.9811451247165541" id="4122" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
       <Region name="Yui-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="150844" position="528190" beat="27.946579743008314" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="7.9811451247165541" id="4136" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
       <Region name="Yui-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="75696" length="222653" position="680296" beat="35.994474678760398" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4.0050907029478573" length-beats="11.780574452003016" id="3592" type="midi" first-edit="nothing" source-0="3590" master-source-0="3590"/>
+    </Playlist>
+    <Playlist id="13284" name="Ritsu Snare.1" type="midi" orig-track-id="13242" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Ritsu Snare-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="675840" position="628056" beat="33.230476190476189" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35.758730158730152" id="13705" type="midi" first-edit="nothing" source-0="13695" master-source-0="13695"/>
     </Playlist>
   </Playlists>
   <UnusedPlaylists>
@@ -1418,7 +1601,7 @@
         <Object id="strip 54" visible="1" strip-width="Wide">
           <Object id="processor 84"/>
         </Object>
-        <Object id="rtav 158" height="387" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="51" note-range-max="79"/>
+        <Object id="rtav 158" height="139" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="44" note-range-max="79"/>
         <Object id="automation 162" height="68" visible="0"/>
         <Object id="automation 158 12/0/0" height="68" visible="0"/>
         <Object id="strip 158" visible="1" strip-width="Wide">
