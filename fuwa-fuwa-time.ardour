@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="fuwa-fuwa-time" sample-rate="44100" end-is-free="0" id-counter="13713" name-counter="1" event-counter="265797" vca-counter="1">
+<Session version="3002" name="fuwa-fuwa-time" sample-rate="44100" end-is-free="0" id-counter="16205" name-counter="1" event-counter="437278" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -100,6 +100,19 @@
     <Source name="Ritsu Snare-5.mid" type="midi" flags="Writable,CanRename" id="13667" captured-for="Ritsu Snare" origin=""/>
     <Source name="Ritsu Snare-6.mid" type="midi" flags="Writable,CanRename" id="13681" captured-for="Ritsu Snare" origin=""/>
     <Source name="Ritsu Snare-7.mid" type="midi" flags="Writable,CanRename" id="13695" captured-for="Ritsu Snare" origin=""/>
+    <Source name="Yui guitar-1.wav" type="audio" flags="" id="15283" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-2.wav" type="audio" flags="" id="15371" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-3.wav" type="audio" flags="" id="15405" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-4.wav" type="audio" flags="" id="15437" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-5.wav" type="audio" flags="" id="15470" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-6.wav" type="audio" flags="" id="15662" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-7.wav" type="audio" flags="" id="15703" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-8.wav" type="audio" flags="" id="15747" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-9.wav" type="audio" flags="" id="15797" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-10.wav" type="audio" flags="" id="15838" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-11.wav" type="audio" flags="" id="15971" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Yui guitar-12.wav" type="audio" flags="" id="16012" captured-for="Yui guitar" channel="0" origin="" gain="1"/>
+    <Source name="Azunyan-1.wav" type="audio" flags="" id="16111" captured-for="Azunyan" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="Mugi-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="280578" position="88624" beat="4.0192290249433107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="12.724625850340136" id="242" type="midi" first-edit="nothing" source-0="240" master-source-0="240"/>
@@ -168,10 +181,37 @@
     <Region name="Ritsu Snare-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="103424" position="637152" beat="33.711746031746031" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="5.4721693121693136" id="13691" type="midi" first-edit="nothing" source-0="13681" master-source-0="13681"/>
     <Region name="Ritsu Snare-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="675840" position="628056" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35.75873015873016" id="13702" type="midi" first-edit="nothing" source-0="13695" master-source-0="13695"/>
     <Region name="Ritsu Snare-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="675840" position="628056" beat="33.230476190476189" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35.758730158730152" id="13705" type="midi" first-edit="nothing" source-0="13695" master-source-0="13695"/>
+    <Region name="Yui guitar-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="82944" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15349" type="audio" first-edit="nothing" source-0="15283" master-source-0="15283" channels="1"/>
+    <Region name="Yui guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="82944" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15357" type="audio" first-edit="nothing" source-0="15283" master-source-0="15283" channels="1"/>
+    <Region name="Yui guitar-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2477056" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15383" type="audio" first-edit="nothing" source-0="15371" master-source-0="15371" channels="1"/>
+    <Region name="Yui guitar-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2477056" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15391" type="audio" first-edit="nothing" source-0="15371" master-source-0="15371" channels="1"/>
+    <Region name="Yui guitar-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="72704" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15415" type="audio" first-edit="nothing" source-0="15405" master-source-0="15405" channels="1"/>
+    <Region name="Yui guitar-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="72704" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15423" type="audio" first-edit="nothing" source-0="15405" master-source-0="15405" channels="1"/>
+    <Region name="Yui guitar-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2592768" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15448" type="audio" first-edit="nothing" source-0="15437" master-source-0="15437" channels="1"/>
+    <Region name="Yui guitar-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="71264" length="2521504" position="73576" beat="3.8929100529100529" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15456" type="audio" first-edit="nothing" source-0="15437" master-source-0="15437" channels="1"/>
+    <Region name="Yui guitar-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="71264" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15582" type="audio" first-edit="nothing" source-0="15437" master-source-0="15437" channels="1"/>
+    <Region name="Yui guitar-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="86016" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15640" type="audio" first-edit="nothing" source-0="15470" master-source-0="15470" channels="1"/>
+    <Region name="Yui guitar-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="86016" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15648" type="audio" first-edit="nothing" source-0="15470" master-source-0="15470" channels="1"/>
+    <Region name="Yui guitar-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2079744" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15681" type="audio" first-edit="nothing" source-0="15662" master-source-0="15662" channels="1"/>
+    <Region name="Yui guitar-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2079744" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15689" type="audio" first-edit="nothing" source-0="15662" master-source-0="15662" channels="1"/>
+    <Region name="Yui guitar-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="107520" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15725" type="audio" first-edit="nothing" source-0="15703" master-source-0="15703" channels="1"/>
+    <Region name="Yui guitar-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="107520" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15733" type="audio" first-edit="nothing" source-0="15703" master-source-0="15703" channels="1"/>
+    <Region name="Yui guitar-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1858560" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15775" type="audio" first-edit="nothing" source-0="15747" master-source-0="15747" channels="1"/>
+    <Region name="Yui guitar-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1858560" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15783" type="audio" first-edit="nothing" source-0="15747" master-source-0="15747" channels="1"/>
+    <Region name="Yui guitar-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2505728" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15816" type="audio" first-edit="nothing" source-0="15797" master-source-0="15797" channels="1"/>
+    <Region name="Yui guitar-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="46096" length="2459632" position="47637" beat="3.6006802721088436" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15824" type="audio" first-edit="nothing" source-0="15797" master-source-0="15797" channels="1"/>
+    <Region name="Yui guitar-9.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="46096" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15848" type="audio" first-edit="nothing" source-0="15797" master-source-0="15797" channels="1"/>
+    <Region name="Yui guitar-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2308096" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15949" type="audio" first-edit="nothing" source-0="15838" master-source-0="15838" channels="1"/>
+    <Region name="Yui guitar-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2308096" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15957" type="audio" first-edit="nothing" source-0="15838" master-source-0="15838" channels="1"/>
+    <Region name="Yui guitar-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="926720" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15990" type="audio" first-edit="nothing" source-0="15971" master-source-0="15971" channels="1"/>
+    <Region name="Yui guitar-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="926720" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="15998" type="audio" first-edit="nothing" source-0="15971" master-source-0="15971" channels="1"/>
+    <Region name="Yui guitar-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2539520" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="16031" type="audio" first-edit="nothing" source-0="16012" master-source-0="16012" channels="1"/>
+    <Region name="Azunyan-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2375680" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="16165" type="audio" first-edit="nothing" source-0="16111" master-source-0="16111" channels="1"/>
   </Regions>
   <Selection/>
   <Locations>
     <Location id="245" name="session" start="0" end="926999" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+    <Location id="15380" name="xrun" start="104448" end="104448" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -183,20 +223,24 @@
       <Controllable name="solo-safe" id="70" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Master" id="82" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="Master/audio_in 1">
+          <Connection other="Azunyan/audio_out 1"/>
           <Connection other="Mugi Left/audio_out 1"/>
           <Connection other="Mugi Right/audio_out 1"/>
           <Connection other="Ritsu Kick/audio_out 1"/>
           <Connection other="Ritsu Snare/audio_out 1"/>
           <Connection other="Yui Left/audio_out 1"/>
           <Connection other="Yui Right/audio_out 1"/>
+          <Connection other="Yui guitar/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
+          <Connection other="Azunyan/audio_out 2"/>
           <Connection other="Mugi Left/audio_out 2"/>
           <Connection other="Mugi Right/audio_out 2"/>
           <Connection other="Ritsu Kick/audio_out 2"/>
           <Connection other="Ritsu Snare/audio_out 2"/>
           <Connection other="Yui Left/audio_out 2"/>
           <Connection other="Yui Right/audio_out 2"/>
+          <Connection other="Yui guitar/audio_out 2"/>
         </Port>
       </IO>
       <IO name="Master" id="83" direction="Output" default-type="audio" user-latency="0">
@@ -658,7 +702,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="3161" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="3162" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="3162" flags="GainLike" value="1.0289996862411499"/>
       </Processor>
       <Processor id="3190" name="meter-Ritsu" active="1" user-latency="0" type="meter"/>
       <Processor id="3191" name="Ritsu Kick" active="1" user-latency="0" own-input="1" own-output="0" output="Ritsu Kick" type="main-outs" role="Main">
@@ -729,7 +773,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="3465" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="3466" flags="GainLike" value="0.45574581623077393"/>
+        <Controllable name="gaincontrol" id="3466" flags="GainLike" value="0.47194015979766846"/>
       </Processor>
       <Processor id="3494" name="meter-Yui" active="1" user-latency="0" type="meter"/>
       <Processor id="3495" name="Yui" active="1" user-latency="0" own-input="1" own-output="0" output="Yui" type="main-outs" role="Main">
@@ -960,7 +1004,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state7">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state8">
           <Port symbol="port_reverse" value="0"/>
           <Port symbol="port_predelay" value="0"/>
           <Port symbol="port_attack" value="100"/>
@@ -1222,7 +1266,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state8">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state9">
           <Port symbol="port_reverse" value="0"/>
           <Port symbol="port_predelay" value="0"/>
           <Port symbol="port_attack" value="100"/>
@@ -1393,45 +1437,487 @@
       <Controllable name="rec-enable" id="13278" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Ritsu Snare.1" name="Ritsu Snare" id="13283" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
+    <Route id="15238" name="Yui guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
+      <PresentationInfo order="9" flags="AudioTrack,OrderSet" color="3605361407"/>
+      <Controllable name="solo" id="15246" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="15252" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="15254" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Yui guitar" id="15266" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="Yui guitar/audio_in 1"/>
+      </IO>
+      <IO name="Yui guitar" id="15267" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="Yui guitar/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Yui guitar/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="15248" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="15250" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="15245" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="15251" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="15253" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="15247" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="15273" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="15275" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="15249" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="15277" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="15257" flags="" value="0.31730769230769207"/>
+        <Controllable name="pan-width" id="15261" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="15259" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="15263" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="15265" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="15256" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="15258" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="15260" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="15262" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="15264" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="15269" name="Amp" active="1" user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="15243" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="15244" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="15268" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="15241" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="15242" flags="GainLike" value="0.5114750862121582"/>
+      </Processor>
+      <Processor id="15299" name="GxAmplifier-X" active="1" user-latency="0" type="lv2" unique-id="http://guitarix.sourceforge.net/plugins/gx_amp#GUITARIX" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-0" id="15300" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-1" id="15302" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-2" id="15304" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="15306" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="15308" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="15310" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="15312" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="15314" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="15316" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="15318" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="15320" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="15322" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="MasterGain" value="2.6000003814697266"/>
+          <Port symbol="PreGain" value="-0.19999982416629791"/>
+          <Port symbol="Distortion" value="1.9900000095367432"/>
+          <Port symbol="Drive" value="0.34900000691413879"/>
+          <Port symbol="Middle" value="0.68999987840652466"/>
+          <Port symbol="Bass" value="0.49500018358230591"/>
+          <Port symbol="Treble" value="0.31999999284744263"/>
+          <Port symbol="Cabinet" value="8.3850002288818359"/>
+          <Port symbol="Presence" value="4.9999980926513672"/>
+          <Port symbol="model" value="12"/>
+          <Port symbol="t_model" value="25"/>
+          <Port symbol="c_model" value="11"/>
+        </lv2>
+        <Controllable name="MasterGain" id="15301" flags="" value="2.6000003814697266" parameter="0" symbol="MasterGain"/>
+        <Controllable name="PreGain" id="15303" flags="" value="-0.19999982416629791" parameter="1" symbol="PreGain"/>
+        <Controllable name="Distortion" id="15305" flags="" value="1.9900000095367432" parameter="2" symbol="Distortion"/>
+        <Controllable name="Drive" id="15307" flags="" value="0.34900000691413879" parameter="3" symbol="Drive"/>
+        <Controllable name="Middle" id="15309" flags="" value="0.68999987840652466" parameter="4" symbol="Middle"/>
+        <Controllable name="Bass" id="15311" flags="" value="0.49500018358230591" parameter="5" symbol="Bass"/>
+        <Controllable name="Treble" id="15313" flags="" value="0.31999999284744263" parameter="6" symbol="Treble"/>
+        <Controllable name="Cabinet" id="15315" flags="" value="8.3850002288818359" parameter="7" symbol="Cabinet"/>
+        <Controllable name="Presence" id="15317" flags="" value="4.9999980926513672" parameter="8" symbol="Presence"/>
+        <Controllable name="Model" id="15319" flags="" value="12" parameter="9" symbol="model"/>
+        <Controllable name="Tonestack Model" id="15321" flags="" value="25" parameter="10" symbol="t_model"/>
+        <Controllable name="Cab Model" id="15323" flags="" value="11" parameter="11" symbol="c_model"/>
+      </Processor>
+      <Processor id="15328" name="GxReverb-Stereo" active="0" user-latency="0" type="lv2" unique-id="http://guitarix.sourceforge.net/plugins/gx_reverb_stereo#_reverb_stereo" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-0" id="15329" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-1" id="15331" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-2" id="15333" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="15335" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="15337" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="dry_wet" value="69"/>
+          <Port symbol="lfo" value="0.20000000298023224"/>
+          <Port symbol="roomsize" value="0.4450000524520874"/>
+          <Port symbol="damp" value="0.49000003933906555"/>
+          <Port symbol="mode" value="0"/>
+        </lv2>
+        <Controllable name="Dry/Wet" id="15330" flags="" value="69" parameter="0" symbol="dry_wet"/>
+        <Controllable name="LFO" id="15332" flags="" value="0.20000000298023224" parameter="1" symbol="lfo"/>
+        <Controllable name="Roomsize" id="15334" flags="" value="0.4450000524520874" parameter="2" symbol="roomsize"/>
+        <Controllable name="Damp" id="15336" flags="" value="0.49000003933906555" parameter="3" symbol="damp"/>
+        <Controllable name="Mode" id="15338" flags="" value="0" parameter="4" symbol="mode"/>
+      </Processor>
+      <Processor id="15888" name="Calf Reverb" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Reverb" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-7" id="15889" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="15891" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="15893" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="15895" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="15897" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="15899" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="15901" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="15903" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="15905" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="15907" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="15909" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="15911" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="decay_time" value="2.9222207069396973"/>
+          <Port symbol="hf_damp" value="5000"/>
+          <Port symbol="room_size" value="1"/>
+          <Port symbol="diffusion" value="0.5"/>
+          <Port symbol="amount" value="0.1631193608045578"/>
+          <Port symbol="dry" value="1"/>
+          <Port symbol="predelay" value="0"/>
+          <Port symbol="bass_cut" value="300"/>
+          <Port symbol="treble_cut" value="5000"/>
+          <Port symbol="on" value="1"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="1"/>
+        </lv2>
+        <Controllable name="Decay time" id="15890" flags="" value="2.9222207069396973" parameter="7" symbol="decay_time"/>
+        <Controllable name="High Frq Damp" id="15892" flags="" value="5000" parameter="8" symbol="hf_damp"/>
+        <Controllable name="Room size" id="15894" flags="" value="1" parameter="9" symbol="room_size"/>
+        <Controllable name="Diffusion" id="15896" flags="" value="0.5" parameter="10" symbol="diffusion"/>
+        <Controllable name="Wet Amount" id="15898" flags="" value="0.1631193608045578" parameter="11" symbol="amount"/>
+        <Controllable name="Dry Amount" id="15900" flags="" value="1" parameter="12" symbol="dry"/>
+        <Controllable name="Pre Delay" id="15902" flags="" value="0" parameter="13" symbol="predelay"/>
+        <Controllable name="Bass Cut" id="15904" flags="" value="300" parameter="14" symbol="bass_cut"/>
+        <Controllable name="Treble Cut" id="15906" flags="" value="5000" parameter="15" symbol="treble_cut"/>
+        <Controllable name="Active" id="15908" flags="Toggle" value="1" parameter="16" symbol="on"/>
+        <Controllable name="Input Gain" id="15910" flags="" value="1" parameter="17" symbol="level_in"/>
+        <Controllable name="Output Gain" id="15912" flags="" value="1" parameter="18" symbol="level_out"/>
+      </Processor>
+      <Processor id="15270" name="meter-Yui guitar" active="1" user-latency="0" type="meter"/>
+      <Processor id="15271" name="Yui guitar" active="1" user-latency="0" own-input="1" own-output="0" output="Yui guitar" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="15257" flags="" value="0.31730769230769207"/>
+          <Controllable name="pan-width" id="15261" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="15259" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="15263" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="15265" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="15256" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="15258" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="15260" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="15262" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="15264" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="15278" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="15276" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="15274" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Yui guitar.1" name="Yui guitar" id="15279" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
+    </Route>
+    <Route id="16066" name="Azunyan" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
+      <PresentationInfo order="10" flags="AudioTrack,OrderSet" color="2917497343"/>
+      <Controllable name="solo" id="16074" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="16080" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="16082" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Azunyan" id="16094" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="Azunyan/audio_in 1">
+          <Connection other="system:capture_1"/>
+        </Port>
+      </IO>
+      <IO name="Azunyan" id="16095" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="Azunyan/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Azunyan/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="16076" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="16078" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="16073" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="16079" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="16081" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="16075" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="16101" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="16103" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="16077" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="16105" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="16085" flags="" value="0.75961538461538436"/>
+        <Controllable name="pan-width" id="16089" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="16087" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="16091" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="16093" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="16084" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="16086" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="16088" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="16090" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="16092" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="16097" name="Amp" active="1" user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="16071" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="16072" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="16098" name="meter-Azunyan" active="1" user-latency="0" type="meter"/>
+      <Processor id="16096" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="16069" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="16070" flags="GainLike" value="0.69818031787872314"/>
+      </Processor>
+      <Processor id="16128" name="GxAmplifier-X" active="1" user-latency="0" type="lv2" unique-id="http://guitarix.sourceforge.net/plugins/gx_amp#GUITARIX" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-0" id="15300" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-1" id="15302" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-2" id="15304" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="15306" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="15308" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="15310" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="15312" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="15314" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="15316" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="15318" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="15320" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="15322" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="MasterGain" value="2.6000003814697266"/>
+          <Port symbol="PreGain" value="1.1999996900558472"/>
+          <Port symbol="Distortion" value="1.9900000095367432"/>
+          <Port symbol="Drive" value="0.34900000691413879"/>
+          <Port symbol="Middle" value="0.68999987840652466"/>
+          <Port symbol="Bass" value="0.49500018358230591"/>
+          <Port symbol="Treble" value="0.31999999284744263"/>
+          <Port symbol="Cabinet" value="8.3850002288818359"/>
+          <Port symbol="Presence" value="4.9999980926513672"/>
+          <Port symbol="model" value="11"/>
+          <Port symbol="t_model" value="1"/>
+          <Port symbol="c_model" value="5"/>
+        </lv2>
+        <Controllable name="MasterGain" id="15301" flags="" value="2.6000003814697266" parameter="0" symbol="MasterGain"/>
+        <Controllable name="PreGain" id="15303" flags="" value="1.1999996900558472" parameter="1" symbol="PreGain"/>
+        <Controllable name="Distortion" id="15305" flags="" value="1.9900000095367432" parameter="2" symbol="Distortion"/>
+        <Controllable name="Drive" id="15307" flags="" value="0.34900000691413879" parameter="3" symbol="Drive"/>
+        <Controllable name="Middle" id="15309" flags="" value="0.68999987840652466" parameter="4" symbol="Middle"/>
+        <Controllable name="Bass" id="15311" flags="" value="0.49500018358230591" parameter="5" symbol="Bass"/>
+        <Controllable name="Treble" id="15313" flags="" value="0.31999999284744263" parameter="6" symbol="Treble"/>
+        <Controllable name="Cabinet" id="15315" flags="" value="8.3850002288818359" parameter="7" symbol="Cabinet"/>
+        <Controllable name="Presence" id="15317" flags="" value="4.9999980926513672" parameter="8" symbol="Presence"/>
+        <Controllable name="Model" id="15319" flags="" value="11" parameter="9" symbol="model"/>
+        <Controllable name="Tonestack Model" id="15321" flags="" value="1" parameter="10" symbol="t_model"/>
+        <Controllable name="Cab Model" id="15323" flags="" value="5" parameter="11" symbol="c_model"/>
+      </Processor>
+      <Processor id="16099" name="Azunyan" active="1" user-latency="0" own-input="1" own-output="0" output="Azunyan" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="16085" flags="" value="0.75961538461538436"/>
+          <Controllable name="pan-width" id="16089" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="16087" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="16091" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="16093" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="16084" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="16086" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="16088" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="16090" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="16092" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="16106" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="16104" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="16102" flags="Toggle,RealTime" value="1"/>
+      <Diskstream flags="Recordable" playlist="Azunyan.1" name="Azunyan" id="16107" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
+    </Route>
   </Routes>
   <Playlists>
     <Playlist id="200" name="Mugi.1" type="midi" orig-track-id="158" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Mugi-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="155967" position="69618" beat="3.6834920634920634" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.2522448979591836" id="252" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="226003" beat="11.9578231292517" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2308" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="377189" beat="19.957097505668933" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2339" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi-2.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="528303" beat="27.952562358276644" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2353" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi Right-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="603904" position="680212" beat="35.99005291005291" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="31.952592592592595" id="4573" type="midi" first-edit="nothing" source-0="4571" master-source-0="4571"/>
-      <Region name="Mugi-5.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="302589" position="1284672" beat="67.972063492063498" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="16.009999999999991" id="10499" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
-      <Region name="Mugi-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="299808" position="1587402" beat="83.989523809523817" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="15.862857142857138" id="10815" type="midi" first-edit="nothing" source-0="10813" master-source-0="10813"/>
-      <Region name="Mugi-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="301715" position="1889412" beat="99.968888888888884" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="15.963756613756615" id="8479" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
-      <Region name="Mugi-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="247471" position="2191517" beat="115.95328042328042" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="13.093703703703724" id="11285" type="midi" first-edit="nothing" source-0="11283" master-source-0="11283"/>
+      <Region name="Mugi-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="109177" position="48733" beat="3.6834920634920634" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.2522448979591836" id="252" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3679" length="105498" position="158202" beat="11.9578231292517" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2308" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3679" length="105498" position="264032" beat="19.957097505668933" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2339" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi-2.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3679" length="105498" position="369812" beat="27.952562358276644" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2353" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi Right-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="422733" position="476148" beat="35.99005291005291" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="31.952592592592595" id="4573" type="midi" first-edit="nothing" source-0="4571" master-source-0="4571"/>
+      <Region name="Mugi-5.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="211812" position="899270" beat="67.972063492063498" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="16.009999999999991" id="10499" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+      <Region name="Mugi-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="209866" position="1111181" beat="83.989523809523817" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="15.862857142857138" id="10815" type="midi" first-edit="nothing" source-0="10813" master-source-0="10813"/>
+      <Region name="Mugi-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="211201" position="1322588" beat="99.968888888888884" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="15.963756613756615" id="8479" type="midi" first-edit="nothing" source-0="8477" master-source-0="8477"/>
+      <Region name="Mugi-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="173230" position="1534062" beat="115.95328042328042" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="13.093703703703724" id="11285" type="midi" first-edit="nothing" source-0="11283" master-source-0="11283"/>
     </Playlist>
     <Playlist id="3200" name="Ritsu.1" type="midi" orig-track-id="3158" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Ritsu-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="71742" beat="3.7958919123204837" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="3.9547808012093721" id="3353" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="147453" beat="7.8017687074829931" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="3.9547808012093721" id="3396" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="223051" beat="11.801651549508692" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="3.9547808012093721" id="3402" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="298656" beat="15.801927437641723" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="3.9547808012093721" id="3412" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="374393" beat="19.80913076341648" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="3.9547808012093721" id="4207" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="450104" beat="23.815007558578994" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="3.9547808012093721" id="4210" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="525701" beat="27.814890400604693" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="3.9547808012093721" id="4213" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="74745" position="601307" beat="31.815185185185186" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="3.9547808012093721" id="4216" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
-      <Region name="Ritsu-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="107590" length="639930" position="679442" beat="35.949312169312165" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="5.6925925925925966" length-beats="33.858730158730161" id="13098" type="midi" first-edit="nothing" source-0="13091" master-source-0="13091"/>
+      <Region name="Ritsu-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="50220" beat="3.7958919123204837" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="3.9547808012093721" id="3353" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="103217" beat="7.8017687074829931" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="3.9547808012093721" id="3396" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="156136" beat="11.801651549508692" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="3.9547808012093721" id="3402" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="209060" beat="15.801927437641723" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="3.9547808012093721" id="3412" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="262075" beat="19.80913076341648" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="3.9547808012093721" id="4207" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="315073" beat="23.815007558578994" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="3.9547808012093721" id="4210" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="367991" beat="27.814890400604693" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="3.9547808012093721" id="4213" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="52322" position="420915" beat="31.815185185185186" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="3.9547808012093721" id="4216" type="midi" first-edit="nothing" source-0="3351" master-source-0="3351"/>
+      <Region name="Ritsu-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="75313" length="447951" position="475609" beat="35.949312169312165" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="5.6925925925925966" length-beats="33.858730158730161" id="13098" type="midi" first-edit="nothing" source-0="13091" master-source-0="13091"/>
     </Playlist>
     <Playlist id="3504" name="Yui.1" type="midi" orig-track-id="3462" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Yui-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="150844" position="74516" beat="3.94266439909297" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="7.9811451247165541" id="3858" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
-      <Region name="Yui-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="150844" position="225737" beat="11.943756613756614" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="7.9811451247165541" id="4108" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
-      <Region name="Yui-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="150844" position="376915" beat="19.9425888133031" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="7.9811451247165541" id="4122" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
-      <Region name="Yui-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="150844" position="528190" beat="27.946579743008314" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="7.9811451247165541" id="4136" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
-      <Region name="Yui-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="75696" length="222653" position="680296" beat="35.994474678760398" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4.0050907029478573" length-beats="11.780574452003016" id="3592" type="midi" first-edit="nothing" source-0="3590" master-source-0="3590"/>
+      <Region name="Yui-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="105591" position="52161" beat="3.94266439909297" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="7.9811451247165541" id="3858" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
+      <Region name="Yui-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="105591" position="158016" beat="11.943756613756614" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="7.9811451247165541" id="4108" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
+      <Region name="Yui-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="105591" position="263840" beat="19.9425888133031" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="7.9811451247165541" id="4122" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
+      <Region name="Yui-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="105591" position="369733" beat="27.946579743008314" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="7.9811451247165541" id="4136" type="midi" first-edit="nothing" source-0="3856" master-source-0="3856"/>
+      <Region name="Yui-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="52987" length="155857" position="476207" beat="35.994474678760398" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="4.0050907029478573" length-beats="11.780574452003016" id="3592" type="midi" first-edit="nothing" source-0="3590" master-source-0="3590"/>
     </Playlist>
     <Playlist id="13284" name="Ritsu Snare.1" type="midi" orig-track-id="13242" shared-with-ids="" frozen="0" combine-ops="0"/>
+    <Playlist id="15280" name="Yui guitar.1" type="audio" orig-track-id="15238" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Yui guitar-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2539520" position="1680" beat="0.12698412698412698" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="16039" type="audio" first-edit="nothing" source-0="16012" master-source-0="16012" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="16040" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="16041" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="16042" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="16043" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="16108" name="Azunyan.1" type="audio" orig-track-id="16066" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Azunyan-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2375680" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="16173" type="audio" first-edit="nothing" source-0="16111" master-source-0="16111" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="16174" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="16175" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="16176" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="16177" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
   </Playlists>
   <UnusedPlaylists>
     <Playlist id="2406" name="Mugi Left.1" type="midi" orig-track-id="2364" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Mugi-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="155967" position="69107" beat="3.6564625850340136" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.2522448979591836" id="2460" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi-2.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="225204" beat="11.915555555555555" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2463" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi-2.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="376390" beat="19.91482993197279" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2466" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
-      <Region name="Mugi-2.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5256" length="150711" position="527505" beat="27.910294784580501" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2469" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="109177" position="48375" beat="3.6564625850340136" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.2522448979591836" id="2460" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi-2.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3679" length="105498" position="157643" beat="11.915555555555555" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2463" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi-2.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3679" length="105498" position="263473" beat="19.91482993197279" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2466" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
+      <Region name="Mugi-2.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3679" length="105498" position="369253" beat="27.910294784580501" sync-position="6132" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0.27809523809523817" length-beats="7.9741496598639454" id="2469" type="midi" first-edit="nothing" source-0="250" master-source-0="250"/>
     </Playlist>
   </UnusedPlaylists>
   <RouteGroups/>
@@ -1448,7 +1934,7 @@
       <Automation>
         <AutomationList automation-id="gain" id="49" interpolation-style="Linear" state="Off"/>
       </Automation>
-      <Controllable name="gaincontrol" id="50" flags="GainLike" value="0.079073540866374969"/>
+      <Controllable name="gaincontrol" id="50" flags="GainLike" value="0.056907068938016891"/>
     </Processor>
   </Click>
   <LTC-In>
@@ -1468,17 +1954,17 @@
     <Speaker azimuth="120" elevation="0" distance="1"/>
   </Speakers>
   <TempoMap>
-    <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="140" note-type="4" clamped="0" end-beats-per-minute="140" active="1" locked-to-meter="1"/>
+    <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="200" note-type="4" clamped="0" end-beats-per-minute="200" active="1" locked-to-meter="1"/>
     <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
   </TempoMap>
   <ControlProtocols>
-    <Protocol name="Generic MIDI" active="0"/>
-    <Protocol name="Ableton Push 2" active="0"/>
-    <Protocol name="PreSonus FaderPort" active="0"/>
-    <Protocol name="Open Sound Control (OSC)" active="0"/>
-    <Protocol name="PreSonus FaderPort8" active="0"/>
-    <Protocol name="Steinberg CC121" active="0"/>
     <Protocol name="Mackie" active="0"/>
+    <Protocol name="Open Sound Control (OSC)" active="0"/>
+    <Protocol name="Ableton Push 2" active="0"/>
+    <Protocol name="Steinberg CC121" active="0"/>
+    <Protocol name="PreSonus FaderPort" active="0"/>
+    <Protocol name="Generic MIDI" active="0"/>
+    <Protocol name="PreSonus FaderPort8" active="0"/>
   </ControlProtocols>
   <Extra>
     <UI>
@@ -1486,17 +1972,17 @@
       <Window name="session-options-editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="683" y-size="490"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="631" y-size="497"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="inspector" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-midi-setup" visible="0" x-off="391" y-off="179" x-size="583" y-size="410"/>
+      <Window name="inspector" visible="0" x-off="0" y-off="0" x-size="620" y-size="370"/>
+      <Window name="audio-midi-setup" visible="0" x-off="684" y-off="338" x-size="551" y-size="403"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="script-manager" visible="0" x-off="1001" y-off="39" x-size="365" y-size="340"/>
+      <Window name="script-manager" visible="0" x-off="1450" y-off="206" x-size="361" y-size="341"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="locations" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-clock" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-connection-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="midi-connection-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="audio-connection-manager" visible="0" x-off="698" y-off="572" x-size="566" y-size="539"/>
+      <Window name="midi-connection-manager" visible="0" x-off="782" y-off="216" x-size="367" y-size="864"/>
       <Window name="idle-o-meter" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-54" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-158" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -1506,6 +1992,7 @@
       <Window name="RPM-3462" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4271" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4407" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-13242" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-85" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-84" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-86" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -1590,15 +2077,40 @@
       <Window name="PM-4504-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4439-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4440-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-13242" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-13242-13373" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-13242-13272" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-13242-13274" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-13242-13275" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-13373-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-13272-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-13274-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-13275-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-13242-13373" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-13373-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-15238" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-15238-15269" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-15238-15268" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-15238-15270" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-15238-15271" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-15269-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-15268-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-15270-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-15271-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-15238-15299" visible="0" x-off="0" y-off="56" x-size="809" y-size="193" custom-ui="1"/>
+      <Window name="PM-15299-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-15238-15328" visible="1" x-off="1494" y-off="500" x-size="484" y-size="246" custom-ui="1"/>
+      <Window name="PM-15328-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-15238-15888" visible="1" x-off="1206" y-off="829" x-size="806" y-size="333" custom-ui="1"/>
+      <Window name="PM-15888-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-16066" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-16066-16097" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-16066-16096" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-16066-16098" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-16066-16099" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-16097-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-16096-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-16098-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-16099-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-16066-16128" visible="1" x-off="1149" y-off="344" x-size="809" y-size="193" custom-ui="1"/>
+      <Window name="PM-16128-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="68" visible="1"/>
         <Object id="automation 58" height="68" visible="0"/>
@@ -1722,6 +2234,27 @@
         </Object>
         <Object id="automation 13261" height="68" visible="0"/>
         <Object id="automation 13265" height="68" visible="0"/>
+        <Object id="rtav 15238" height="64" visible="1"/>
+        <Object id="automation 15242" height="64" visible="0"/>
+        <Object id="automation 15244" height="64" visible="0"/>
+        <Object id="automation 15238 12/0/0" height="64" visible="0"/>
+        <Object id="automation 15257" height="64" visible="0"/>
+        <Object id="strip 15238" visible="1" strip-width="Wide">
+          <Object id="processor 15268"/>
+          <Object id="processor 15299"/>
+          <Object id="processor 15328"/>
+          <Object id="processor 15888"/>
+          <Object id="processor 15917"/>
+        </Object>
+        <Object id="rtav 16066" height="64" visible="1"/>
+        <Object id="automation 16070" height="64" visible="0"/>
+        <Object id="automation 16072" height="64" visible="0"/>
+        <Object id="automation 16066 12/0/0" height="64" visible="0"/>
+        <Object id="automation 16085" height="64" visible="0"/>
+        <Object id="strip 16066" visible="1" strip-width="Wide">
+          <Object id="processor 16096"/>
+          <Object id="processor 16128"/>
+        </Object>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
