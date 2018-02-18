@@ -1,530 +1,1078 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1518360648" tv-usec="547641" name="change velocities">
+  <UndoTransaction tv-sec="1518938856" tv-usec="137811" name="region drag">
+    <StatefulDiffCommand obj-id="16039" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="3840" to="3120"/>
+        <beat from="0.29024943310657597" to="0.235827664399093"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="193361" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="193361" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518938857" tv-usec="394082" name="region drag">
+    <StatefulDiffCommand obj-id="16039" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="3120" to="1824"/>
+        <beat from="0.235827664399093" to="0.13786848072562358"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="193361" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="193361" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518938859" tv-usec="74794" name="region drag">
+    <StatefulDiffCommand obj-id="16039" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="1824" to="3120"/>
+        <beat from="0.13786848072562358" to="0.235827664399093"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="354838" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="354838" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518938862" tv-usec="913857" name="region drag">
+    <StatefulDiffCommand obj-id="16039" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="3120" to="1824"/>
+        <beat from="0.235827664399093" to="0.13786848072562358"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="354838" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="354838" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518938864" tv-usec="754134" name="region drag">
+    <StatefulDiffCommand obj-id="16039" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="1824" to="2400"/>
+        <beat from="0.13786848072562358" to="0.18140589569160998"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="544001" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="544001" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518938868" tv-usec="478566" name="region drag">
+    <StatefulDiffCommand obj-id="16039" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="2400" to="2688"/>
+        <beat from="0.18140589569160998" to="0.20317460317460317"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="706343" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="706343" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518938870" tv-usec="507162" name="region drag">
+    <StatefulDiffCommand obj-id="16039" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="2688" to="2400"/>
+        <beat from="0.20317460317460317" to="0.18140589569160998"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="706343" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="144" left-frame="706343" y-origin="444">
+        <Selection>
+          <Regions>
+            <Region id="16039"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518954423" tv-usec="590556" name="automation event move">
+    <MementoUndoCommand obj-id="28514" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="envelope" id="28514" interpolation-style="Linear" state="Off">
+        <events>0 0.45639771223068237
+1429381 0.47941410541534424
+1667181 1.242890477180481
+1735621 0.47298857569694519
+2539520 0.45639771223068237
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="28514" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="envelope" id="28514" interpolation-style="Linear" state="Off">
+        <events>0 0.45639771223068237
+1429381 0.47941410541534424
+1667181 0.45274132490158081
+1735621 0.47298857569694519
+2539520 0.45639771223068237
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="288" left-frame="1584192" y-origin="656">
+        <Selection>
+          <ControlPoint type="region" region-id="16039" view-index="2"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="288" left-frame="1584192" y-origin="656">
+        <Selection>
+          <ControlPoint type="region" region-id="16039" view-index="2"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1518954452" tv-usec="873219" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="43" new="44" id="519568"/>
-        <Change property="Velocity" old="29" new="30" id="519566"/>
+        <Change property="Velocity" old="73" new="72" id="521227"/>
+        <Change property="Velocity" old="90" new="89" id="521229"/>
+        <Change property="Velocity" old="91" new="90" id="521231"/>
+        <Change property="Velocity" old="92" new="91" id="521957"/>
+        <Change property="Velocity" old="79" new="78" id="521959"/>
+        <Change property="Velocity" old="87" new="86" id="521961"/>
+        <Change property="Velocity" old="108" new="107" id="521963"/>
+        <Change property="Velocity" old="89" new="88" id="521965"/>
+        <Change property="Velocity" old="100" new="99" id="521967"/>
+        <Change property="Velocity" old="108" new="107" id="521969"/>
+        <Change property="Velocity" old="100" new="99" id="521971"/>
+        <Change property="Velocity" old="89" new="88" id="521973"/>
+        <Change property="Velocity" old="83" new="82" id="521975"/>
+        <Change property="Velocity" old="100" new="99" id="521977"/>
+        <Change property="Velocity" old="108" new="107" id="521979"/>
+        <Change property="Velocity" old="100" new="99" id="521981"/>
+        <Change property="Velocity" old="100" new="99" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360648" tv-usec="565722" name="change velocities">
+  <UndoTransaction tv-sec="1518954452" tv-usec="931021" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="44" new="45" id="519568"/>
-        <Change property="Velocity" old="30" new="31" id="519566"/>
+        <Change property="Velocity" old="72" new="71" id="521227"/>
+        <Change property="Velocity" old="89" new="88" id="521229"/>
+        <Change property="Velocity" old="90" new="89" id="521231"/>
+        <Change property="Velocity" old="91" new="90" id="521957"/>
+        <Change property="Velocity" old="78" new="77" id="521959"/>
+        <Change property="Velocity" old="86" new="85" id="521961"/>
+        <Change property="Velocity" old="107" new="106" id="521963"/>
+        <Change property="Velocity" old="88" new="87" id="521965"/>
+        <Change property="Velocity" old="99" new="98" id="521967"/>
+        <Change property="Velocity" old="107" new="106" id="521969"/>
+        <Change property="Velocity" old="99" new="98" id="521971"/>
+        <Change property="Velocity" old="88" new="87" id="521973"/>
+        <Change property="Velocity" old="82" new="81" id="521975"/>
+        <Change property="Velocity" old="99" new="98" id="521977"/>
+        <Change property="Velocity" old="107" new="106" id="521979"/>
+        <Change property="Velocity" old="99" new="98" id="521981"/>
+        <Change property="Velocity" old="99" new="98" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360648" tv-usec="576555" name="change velocities">
+  <UndoTransaction tv-sec="1518954453" tv-usec="47772" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="45" new="46" id="519568"/>
-        <Change property="Velocity" old="31" new="32" id="519566"/>
+        <Change property="Velocity" old="71" new="70" id="521227"/>
+        <Change property="Velocity" old="88" new="87" id="521229"/>
+        <Change property="Velocity" old="89" new="88" id="521231"/>
+        <Change property="Velocity" old="90" new="89" id="521957"/>
+        <Change property="Velocity" old="77" new="76" id="521959"/>
+        <Change property="Velocity" old="85" new="84" id="521961"/>
+        <Change property="Velocity" old="106" new="105" id="521963"/>
+        <Change property="Velocity" old="87" new="86" id="521965"/>
+        <Change property="Velocity" old="98" new="97" id="521967"/>
+        <Change property="Velocity" old="106" new="105" id="521969"/>
+        <Change property="Velocity" old="98" new="97" id="521971"/>
+        <Change property="Velocity" old="87" new="86" id="521973"/>
+        <Change property="Velocity" old="81" new="80" id="521975"/>
+        <Change property="Velocity" old="98" new="97" id="521977"/>
+        <Change property="Velocity" old="106" new="105" id="521979"/>
+        <Change property="Velocity" old="98" new="97" id="521981"/>
+        <Change property="Velocity" old="98" new="97" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360648" tv-usec="772154" name="change velocities">
+  <UndoTransaction tv-sec="1518954453" tv-usec="439702" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="46" new="47" id="519568"/>
-        <Change property="Velocity" old="32" new="33" id="519566"/>
+        <Change property="Velocity" old="70" new="69" id="521227"/>
+        <Change property="Velocity" old="87" new="86" id="521229"/>
+        <Change property="Velocity" old="88" new="87" id="521231"/>
+        <Change property="Velocity" old="89" new="88" id="521957"/>
+        <Change property="Velocity" old="76" new="75" id="521959"/>
+        <Change property="Velocity" old="84" new="83" id="521961"/>
+        <Change property="Velocity" old="105" new="104" id="521963"/>
+        <Change property="Velocity" old="86" new="85" id="521965"/>
+        <Change property="Velocity" old="97" new="96" id="521967"/>
+        <Change property="Velocity" old="105" new="104" id="521969"/>
+        <Change property="Velocity" old="97" new="96" id="521971"/>
+        <Change property="Velocity" old="86" new="85" id="521973"/>
+        <Change property="Velocity" old="80" new="79" id="521975"/>
+        <Change property="Velocity" old="97" new="96" id="521977"/>
+        <Change property="Velocity" old="105" new="104" id="521979"/>
+        <Change property="Velocity" old="97" new="96" id="521981"/>
+        <Change property="Velocity" old="97" new="96" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360648" tv-usec="787208" name="change velocities">
+  <UndoTransaction tv-sec="1518954453" tv-usec="555221" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="47" new="48" id="519568"/>
-        <Change property="Velocity" old="33" new="34" id="519566"/>
+        <Change property="Velocity" old="69" new="68" id="521227"/>
+        <Change property="Velocity" old="86" new="85" id="521229"/>
+        <Change property="Velocity" old="87" new="86" id="521231"/>
+        <Change property="Velocity" old="88" new="87" id="521957"/>
+        <Change property="Velocity" old="75" new="74" id="521959"/>
+        <Change property="Velocity" old="83" new="82" id="521961"/>
+        <Change property="Velocity" old="104" new="103" id="521963"/>
+        <Change property="Velocity" old="85" new="84" id="521965"/>
+        <Change property="Velocity" old="96" new="95" id="521967"/>
+        <Change property="Velocity" old="104" new="103" id="521969"/>
+        <Change property="Velocity" old="96" new="95" id="521971"/>
+        <Change property="Velocity" old="85" new="84" id="521973"/>
+        <Change property="Velocity" old="79" new="78" id="521975"/>
+        <Change property="Velocity" old="96" new="95" id="521977"/>
+        <Change property="Velocity" old="104" new="103" id="521979"/>
+        <Change property="Velocity" old="96" new="95" id="521981"/>
+        <Change property="Velocity" old="96" new="95" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360648" tv-usec="803172" name="change velocities">
+  <UndoTransaction tv-sec="1518954453" tv-usec="611686" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="48" new="49" id="519568"/>
-        <Change property="Velocity" old="34" new="35" id="519566"/>
+        <Change property="Velocity" old="68" new="67" id="521227"/>
+        <Change property="Velocity" old="85" new="84" id="521229"/>
+        <Change property="Velocity" old="86" new="85" id="521231"/>
+        <Change property="Velocity" old="87" new="86" id="521957"/>
+        <Change property="Velocity" old="74" new="73" id="521959"/>
+        <Change property="Velocity" old="82" new="81" id="521961"/>
+        <Change property="Velocity" old="103" new="102" id="521963"/>
+        <Change property="Velocity" old="84" new="83" id="521965"/>
+        <Change property="Velocity" old="95" new="94" id="521967"/>
+        <Change property="Velocity" old="103" new="102" id="521969"/>
+        <Change property="Velocity" old="95" new="94" id="521971"/>
+        <Change property="Velocity" old="84" new="83" id="521973"/>
+        <Change property="Velocity" old="78" new="77" id="521975"/>
+        <Change property="Velocity" old="95" new="94" id="521977"/>
+        <Change property="Velocity" old="103" new="102" id="521979"/>
+        <Change property="Velocity" old="95" new="94" id="521981"/>
+        <Change property="Velocity" old="95" new="94" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360648" tv-usec="827808" name="change velocities">
+  <UndoTransaction tv-sec="1518954453" tv-usec="708548" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="49" new="50" id="519568"/>
-        <Change property="Velocity" old="35" new="36" id="519566"/>
+        <Change property="Velocity" old="67" new="66" id="521227"/>
+        <Change property="Velocity" old="84" new="83" id="521229"/>
+        <Change property="Velocity" old="85" new="84" id="521231"/>
+        <Change property="Velocity" old="86" new="85" id="521957"/>
+        <Change property="Velocity" old="73" new="72" id="521959"/>
+        <Change property="Velocity" old="81" new="80" id="521961"/>
+        <Change property="Velocity" old="102" new="101" id="521963"/>
+        <Change property="Velocity" old="83" new="82" id="521965"/>
+        <Change property="Velocity" old="94" new="93" id="521967"/>
+        <Change property="Velocity" old="102" new="101" id="521969"/>
+        <Change property="Velocity" old="94" new="93" id="521971"/>
+        <Change property="Velocity" old="83" new="82" id="521973"/>
+        <Change property="Velocity" old="77" new="76" id="521975"/>
+        <Change property="Velocity" old="94" new="93" id="521977"/>
+        <Change property="Velocity" old="102" new="101" id="521979"/>
+        <Change property="Velocity" old="94" new="93" id="521981"/>
+        <Change property="Velocity" old="94" new="93" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360649" tv-usec="44050" name="change velocities">
+  <UndoTransaction tv-sec="1518954453" tv-usec="766217" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="50" new="51" id="519568"/>
-        <Change property="Velocity" old="36" new="37" id="519566"/>
+        <Change property="Velocity" old="66" new="65" id="521227"/>
+        <Change property="Velocity" old="83" new="82" id="521229"/>
+        <Change property="Velocity" old="84" new="83" id="521231"/>
+        <Change property="Velocity" old="85" new="84" id="521957"/>
+        <Change property="Velocity" old="72" new="71" id="521959"/>
+        <Change property="Velocity" old="80" new="79" id="521961"/>
+        <Change property="Velocity" old="101" new="100" id="521963"/>
+        <Change property="Velocity" old="82" new="81" id="521965"/>
+        <Change property="Velocity" old="93" new="92" id="521967"/>
+        <Change property="Velocity" old="101" new="100" id="521969"/>
+        <Change property="Velocity" old="93" new="92" id="521971"/>
+        <Change property="Velocity" old="82" new="81" id="521973"/>
+        <Change property="Velocity" old="76" new="75" id="521975"/>
+        <Change property="Velocity" old="93" new="92" id="521977"/>
+        <Change property="Velocity" old="101" new="100" id="521979"/>
+        <Change property="Velocity" old="93" new="92" id="521981"/>
+        <Change property="Velocity" old="93" new="92" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360649" tv-usec="58685" name="change velocities">
+  <UndoTransaction tv-sec="1518954453" tv-usec="883813" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="51" new="52" id="519568"/>
-        <Change property="Velocity" old="37" new="38" id="519566"/>
+        <Change property="Velocity" old="65" new="64" id="521227"/>
+        <Change property="Velocity" old="82" new="81" id="521229"/>
+        <Change property="Velocity" old="83" new="82" id="521231"/>
+        <Change property="Velocity" old="84" new="83" id="521957"/>
+        <Change property="Velocity" old="71" new="70" id="521959"/>
+        <Change property="Velocity" old="79" new="78" id="521961"/>
+        <Change property="Velocity" old="100" new="99" id="521963"/>
+        <Change property="Velocity" old="81" new="80" id="521965"/>
+        <Change property="Velocity" old="92" new="91" id="521967"/>
+        <Change property="Velocity" old="100" new="99" id="521969"/>
+        <Change property="Velocity" old="92" new="91" id="521971"/>
+        <Change property="Velocity" old="81" new="80" id="521973"/>
+        <Change property="Velocity" old="75" new="74" id="521975"/>
+        <Change property="Velocity" old="92" new="91" id="521977"/>
+        <Change property="Velocity" old="100" new="99" id="521979"/>
+        <Change property="Velocity" old="92" new="91" id="521981"/>
+        <Change property="Velocity" old="92" new="91" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360649" tv-usec="83485" name="change velocities">
+  <UndoTransaction tv-sec="1518954454" tv-usec="58703" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="52" new="53" id="519568"/>
-        <Change property="Velocity" old="38" new="39" id="519566"/>
+        <Change property="Velocity" old="64" new="63" id="521227"/>
+        <Change property="Velocity" old="81" new="80" id="521229"/>
+        <Change property="Velocity" old="82" new="81" id="521231"/>
+        <Change property="Velocity" old="83" new="82" id="521957"/>
+        <Change property="Velocity" old="70" new="69" id="521959"/>
+        <Change property="Velocity" old="78" new="77" id="521961"/>
+        <Change property="Velocity" old="99" new="98" id="521963"/>
+        <Change property="Velocity" old="80" new="79" id="521965"/>
+        <Change property="Velocity" old="91" new="90" id="521967"/>
+        <Change property="Velocity" old="99" new="98" id="521969"/>
+        <Change property="Velocity" old="91" new="90" id="521971"/>
+        <Change property="Velocity" old="80" new="79" id="521973"/>
+        <Change property="Velocity" old="74" new="73" id="521975"/>
+        <Change property="Velocity" old="91" new="90" id="521977"/>
+        <Change property="Velocity" old="99" new="98" id="521979"/>
+        <Change property="Velocity" old="91" new="90" id="521981"/>
+        <Change property="Velocity" old="91" new="90" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519568"/>
-            <note note-id="519566"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360651" tv-usec="620144" name="change velocities">
+  <UndoTransaction tv-sec="1518954454" tv-usec="117204" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="43" new="44" id="519570"/>
+        <Change property="Velocity" old="63" new="62" id="521227"/>
+        <Change property="Velocity" old="80" new="79" id="521229"/>
+        <Change property="Velocity" old="81" new="80" id="521231"/>
+        <Change property="Velocity" old="82" new="81" id="521957"/>
+        <Change property="Velocity" old="69" new="68" id="521959"/>
+        <Change property="Velocity" old="77" new="76" id="521961"/>
+        <Change property="Velocity" old="98" new="97" id="521963"/>
+        <Change property="Velocity" old="79" new="78" id="521965"/>
+        <Change property="Velocity" old="90" new="89" id="521967"/>
+        <Change property="Velocity" old="98" new="97" id="521969"/>
+        <Change property="Velocity" old="90" new="89" id="521971"/>
+        <Change property="Velocity" old="79" new="78" id="521973"/>
+        <Change property="Velocity" old="73" new="72" id="521975"/>
+        <Change property="Velocity" old="90" new="89" id="521977"/>
+        <Change property="Velocity" old="98" new="97" id="521979"/>
+        <Change property="Velocity" old="90" new="89" id="521981"/>
+        <Change property="Velocity" old="90" new="89" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519570"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519570"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1518360651" tv-usec="655064" name="change velocities">
+  <UndoTransaction tv-sec="1518954454" tv-usec="391341" name="change velocities">
     <NoteDiffCommand midi-source="20575">
       <ChangedNotes>
-        <Change property="Velocity" old="44" new="45" id="519570"/>
+        <Change property="Velocity" old="62" new="61" id="521227"/>
+        <Change property="Velocity" old="79" new="78" id="521229"/>
+        <Change property="Velocity" old="80" new="79" id="521231"/>
+        <Change property="Velocity" old="81" new="80" id="521957"/>
+        <Change property="Velocity" old="68" new="67" id="521959"/>
+        <Change property="Velocity" old="76" new="75" id="521961"/>
+        <Change property="Velocity" old="97" new="96" id="521963"/>
+        <Change property="Velocity" old="78" new="77" id="521965"/>
+        <Change property="Velocity" old="89" new="88" id="521967"/>
+        <Change property="Velocity" old="97" new="96" id="521969"/>
+        <Change property="Velocity" old="89" new="88" id="521971"/>
+        <Change property="Velocity" old="78" new="77" id="521973"/>
+        <Change property="Velocity" old="72" new="71" id="521975"/>
+        <Change property="Velocity" old="89" new="88" id="521977"/>
+        <Change property="Velocity" old="97" new="96" id="521979"/>
+        <Change property="Velocity" old="89" new="88" id="521981"/>
+        <Change property="Velocity" old="89" new="88" id="521983"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519570"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="1511930" y-origin="444">
         <Selection>
           <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360651" tv-usec="716240" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="45" new="46" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360652" tv-usec="12183" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="46" new="47" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360652" tv-usec="35749" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="47" new="48" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360652" tv-usec="68281" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="48" new="49" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360652" tv-usec="375306" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="49" new="50" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360652" tv-usec="395564" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="50" new="51" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360652" tv-usec="630396" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="51" new="52" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1518360652" tv-usec="660203" name="change velocities">
-    <NoteDiffCommand midi-source="20575">
-      <ChangedNotes>
-        <Change property="Velocity" old="52" new="53" id="519570"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="448" left-frame="887207" y-origin="444">
-        <Selection>
-          <MIDINotes region-id="20582">
-            <note note-id="519570"/>
+            <note note-id="521227"/>
+            <note note-id="521229"/>
+            <note note-id="521231"/>
+            <note note-id="521957"/>
+            <note note-id="521959"/>
+            <note note-id="521961"/>
+            <note note-id="521963"/>
+            <note note-id="521965"/>
+            <note note-id="521967"/>
+            <note note-id="521969"/>
+            <note note-id="521971"/>
+            <note note-id="521973"/>
+            <note note-id="521975"/>
+            <note note-id="521977"/>
+            <note note-id="521979"/>
+            <note note-id="521981"/>
+            <note note-id="521983"/>
           </MIDINotes>
         </Selection>
       </SelectionMemento>
